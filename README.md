@@ -1,1 +1,1 @@
-# Qurovia
+platform of qrovia
